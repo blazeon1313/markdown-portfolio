@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my current Attributes are **Operating** _Chainsaws_, **JavaScript Programming**, and willingness to learn new things
